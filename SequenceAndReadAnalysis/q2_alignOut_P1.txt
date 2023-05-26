@@ -1,0 +1,1500 @@
+Score: 639
+Length: 1359
+
+Score: 651
+Length: 1350
+
+Score: 647
+Length: 1355
+
+Score: 651
+Length: 1351
+
+Score: 647
+Length: 1352
+
+Score: 655
+Length: 1346
+
+Score: 651
+Length: 1350
+
+Score: 643
+Length: 1358
+
+Score: 647
+Length: 1354
+
+Score: 641
+Length: 1360
+
+Score: 641
+Length: 1360
+
+Score: 650
+Length: 1351
+
+Score: 655
+Length: 1346
+
+Score: 639
+Length: 1355
+
+Score: 642
+Length: 1358
+
+Score: 639
+Length: 1361
+
+Score: 642
+Length: 1359
+
+Score: 644
+Length: 1351
+
+Score: 653
+Length: 1349
+
+Score: 639
+Length: 1363
+
+Score: 647
+Length: 1352
+
+Score: 657
+Length: 1345
+
+Score: 647
+Length: 1353
+
+Score: 641
+Length: 1360
+
+Score: 651
+Length: 1351
+
+Score: 648
+Length: 1351
+
+Score: 660
+Length: 1341
+
+Score: 647
+Length: 1355
+
+Score: 646
+Length: 1351
+
+Score: 643
+Length: 1359
+
+Score: 638
+Length: 1359
+
+Score: 644
+Length: 1353
+
+Score: 652
+Length: 1349
+
+Score: 657
+Length: 1339
+
+Score: 644
+Length: 1356
+
+Score: 648
+Length: 1348
+
+Score: 647
+Length: 1354
+
+Score: 649
+Length: 1352
+
+Score: 655
+Length: 1347
+
+Score: 651
+Length: 1351
+
+Score: 648
+Length: 1353
+
+Score: 650
+Length: 1349
+
+Score: 639
+Length: 1361
+
+Score: 649
+Length: 1350
+
+Score: 654
+Length: 1345
+
+Score: 650
+Length: 1347
+
+Score: 646
+Length: 1355
+
+Score: 647
+Length: 1349
+
+Score: 646
+Length: 1355
+
+Score: 649
+Length: 1345
+
+Score: 647
+Length: 1354
+
+Score: 644
+Length: 1354
+
+Score: 655
+Length: 1345
+
+Score: 659
+Length: 1342
+
+Score: 649
+Length: 1347
+
+Score: 636
+Length: 1363
+
+Score: 651
+Length: 1351
+
+Score: 650
+Length: 1344
+
+Score: 652
+Length: 1348
+
+Score: 663
+Length: 1339
+
+Score: 656
+Length: 1341
+
+Score: 654
+Length: 1345
+
+Score: 661
+Length: 1341
+
+Score: 653
+Length: 1348
+
+Score: 652
+Length: 1349
+
+Score: 645
+Length: 1354
+
+Score: 641
+Length: 1359
+
+Score: 647
+Length: 1354
+
+Score: 650
+Length: 1350
+
+Score: 652
+Length: 1348
+
+Score: 645
+Length: 1352
+
+Score: 646
+Length: 1355
+
+Score: 642
+Length: 1357
+
+Score: 654
+Length: 1347
+
+Score: 645
+Length: 1354
+
+Score: 650
+Length: 1351
+
+Score: 656
+Length: 1346
+
+Score: 652
+Length: 1349
+
+Score: 645
+Length: 1356
+
+Score: 649
+Length: 1350
+
+Score: 648
+Length: 1352
+
+Score: 649
+Length: 1350
+
+Score: 647
+Length: 1354
+
+Score: 650
+Length: 1349
+
+Score: 648
+Length: 1351
+
+Score: 648
+Length: 1351
+
+Score: 648
+Length: 1354
+
+Score: 651
+Length: 1348
+
+Score: 645
+Length: 1356
+
+Score: 656
+Length: 1345
+
+Score: 644
+Length: 1352
+
+Score: 654
+Length: 1347
+
+Score: 634
+Length: 1364
+
+Score: 650
+Length: 1352
+
+Score: 638
+Length: 1361
+
+Score: 638
+Length: 1362
+
+Score: 647
+Length: 1353
+
+Score: 650
+Length: 1350
+
+Score: 645
+Length: 1356
+
+Score: 646
+Length: 1354
+
+Score: 640
+Length: 1362
+
+Score: 647
+Length: 1353
+
+Score: 646
+Length: 1354
+
+Score: 640
+Length: 1359
+
+Score: 643
+Length: 1359
+
+Score: 658
+Length: 1341
+
+Score: 644
+Length: 1358
+
+Score: 657
+Length: 1344
+
+Score: 649
+Length: 1352
+
+Score: 650
+Length: 1347
+
+Score: 639
+Length: 1361
+
+Score: 648
+Length: 1349
+
+Score: 652
+Length: 1349
+
+Score: 641
+Length: 1358
+
+Score: 639
+Length: 1359
+
+Score: 638
+Length: 1363
+
+Score: 647
+Length: 1351
+
+Score: 647
+Length: 1350
+
+Score: 652
+Length: 1350
+
+Score: 654
+Length: 1344
+
+Score: 641
+Length: 1361
+
+Score: 649
+Length: 1351
+
+Score: 647
+Length: 1354
+
+Score: 638
+Length: 1364
+
+Score: 650
+Length: 1352
+
+Score: 639
+Length: 1363
+
+Score: 649
+Length: 1353
+
+Score: 644
+Length: 1350
+
+Score: 642
+Length: 1358
+
+Score: 651
+Length: 1344
+
+Score: 646
+Length: 1355
+
+Score: 648
+Length: 1353
+
+Score: 646
+Length: 1353
+
+Score: 646
+Length: 1356
+
+Score: 646
+Length: 1353
+
+Score: 640
+Length: 1357
+
+Score: 652
+Length: 1350
+
+Score: 647
+Length: 1344
+
+Score: 645
+Length: 1356
+
+Score: 640
+Length: 1360
+
+Score: 655
+Length: 1343
+
+Score: 650
+Length: 1347
+
+Score: 655
+Length: 1345
+
+Score: 651
+Length: 1348
+
+Score: 652
+Length: 1343
+
+Score: 646
+Length: 1354
+
+Score: 655
+Length: 1346
+
+Score: 648
+Length: 1354
+
+Score: 653
+Length: 1345
+
+Score: 644
+Length: 1356
+
+Score: 641
+Length: 1356
+
+Score: 650
+Length: 1352
+
+Score: 650
+Length: 1348
+
+Score: 644
+Length: 1356
+
+Score: 636
+Length: 1357
+
+Score: 648
+Length: 1352
+
+Score: 649
+Length: 1347
+
+Score: 652
+Length: 1348
+
+Score: 655
+Length: 1344
+
+Score: 649
+Length: 1353
+
+Score: 648
+Length: 1353
+
+Score: 645
+Length: 1352
+
+Score: 631
+Length: 1369
+
+Score: 642
+Length: 1357
+
+Score: 644
+Length: 1353
+
+Score: 647
+Length: 1355
+
+Score: 656
+Length: 1342
+
+Score: 647
+Length: 1354
+
+Score: 642
+Length: 1360
+
+Score: 645
+Length: 1353
+
+Score: 651
+Length: 1351
+
+Score: 643
+Length: 1357
+
+Score: 643
+Length: 1354
+
+Score: 649
+Length: 1353
+
+Score: 655
+Length: 1346
+
+Score: 644
+Length: 1357
+
+Score: 646
+Length: 1354
+
+Score: 657
+Length: 1335
+
+Score: 653
+Length: 1347
+
+Score: 641
+Length: 1359
+
+Score: 637
+Length: 1364
+
+Score: 637
+Length: 1364
+
+Score: 645
+Length: 1354
+
+Score: 648
+Length: 1353
+
+Score: 645
+Length: 1346
+
+Score: 657
+Length: 1345
+
+Score: 651
+Length: 1350
+
+Score: 646
+Length: 1356
+
+Score: 640
+Length: 1354
+
+Score: 648
+Length: 1347
+
+Score: 644
+Length: 1353
+
+Score: 654
+Length: 1342
+
+Score: 644
+Length: 1347
+
+Score: 648
+Length: 1350
+
+Score: 652
+Length: 1349
+
+Score: 644
+Length: 1358
+
+Score: 649
+Length: 1353
+
+Score: 647
+Length: 1354
+
+Score: 650
+Length: 1349
+
+Score: 650
+Length: 1350
+
+Score: 646
+Length: 1355
+
+Score: 650
+Length: 1347
+
+Score: 639
+Length: 1361
+
+Score: 649
+Length: 1349
+
+Score: 642
+Length: 1355
+
+Score: 648
+Length: 1350
+
+Score: 656
+Length: 1345
+
+Score: 642
+Length: 1351
+
+Score: 652
+Length: 1349
+
+Score: 641
+Length: 1360
+
+Score: 651
+Length: 1350
+
+Score: 641
+Length: 1359
+
+Score: 651
+Length: 1350
+
+Score: 655
+Length: 1342
+
+Score: 644
+Length: 1357
+
+Score: 649
+Length: 1350
+
+Score: 645
+Length: 1352
+
+Score: 646
+Length: 1355
+
+Score: 648
+Length: 1350
+
+Score: 644
+Length: 1353
+
+Score: 654
+Length: 1344
+
+Score: 655
+Length: 1346
+
+Score: 650
+Length: 1350
+
+Score: 657
+Length: 1345
+
+Score: 647
+Length: 1353
+
+Score: 649
+Length: 1352
+
+Score: 647
+Length: 1354
+
+Score: 655
+Length: 1343
+
+Score: 645
+Length: 1353
+
+Score: 651
+Length: 1350
+
+Score: 645
+Length: 1355
+
+Score: 652
+Length: 1347
+
+Score: 638
+Length: 1361
+
+Score: 645
+Length: 1351
+
+Score: 650
+Length: 1351
+
+Score: 646
+Length: 1353
+
+Score: 648
+Length: 1352
+
+Score: 653
+Length: 1348
+
+Score: 655
+Length: 1346
+
+Score: 650
+Length: 1349
+
+Score: 645
+Length: 1349
+
+Score: 643
+Length: 1355
+
+Score: 650
+Length: 1349
+
+Score: 648
+Length: 1350
+
+Score: 640
+Length: 1357
+
+Score: 642
+Length: 1359
+
+Score: 640
+Length: 1361
+
+Score: 652
+Length: 1345
+
+Score: 649
+Length: 1352
+
+Score: 645
+Length: 1353
+
+Score: 664
+Length: 1337
+
+Score: 658
+Length: 1339
+
+Score: 646
+Length: 1346
+
+Score: 648
+Length: 1353
+
+Score: 647
+Length: 1355
+
+Score: 656
+Length: 1345
+
+Score: 648
+Length: 1350
+
+Score: 646
+Length: 1355
+
+Score: 650
+Length: 1352
+
+Score: 643
+Length: 1355
+
+Score: 640
+Length: 1361
+
+Score: 647
+Length: 1355
+
+Score: 644
+Length: 1351
+
+Score: 643
+Length: 1355
+
+Score: 641
+Length: 1360
+
+Score: 650
+Length: 1351
+
+Score: 647
+Length: 1353
+
+Score: 640
+Length: 1361
+
+Score: 644
+Length: 1355
+
+Score: 644
+Length: 1357
+
+Score: 650
+Length: 1351
+
+Score: 649
+Length: 1346
+
+Score: 650
+Length: 1349
+
+Score: 644
+Length: 1355
+
+Score: 642
+Length: 1358
+
+Score: 639
+Length: 1358
+
+Score: 645
+Length: 1355
+
+Score: 640
+Length: 1361
+
+Score: 652
+Length: 1340
+
+Score: 651
+Length: 1351
+
+Score: 653
+Length: 1349
+
+Score: 644
+Length: 1354
+
+Score: 644
+Length: 1353
+
+Score: 650
+Length: 1351
+
+Score: 648
+Length: 1353
+
+Score: 645
+Length: 1356
+
+Score: 650
+Length: 1350
+
+Score: 645
+Length: 1355
+
+Score: 652
+Length: 1346
+
+Score: 641
+Length: 1360
+
+Score: 641
+Length: 1358
+
+Score: 650
+Length: 1347
+
+Score: 648
+Length: 1353
+
+Score: 643
+Length: 1355
+
+Score: 642
+Length: 1352
+
+Score: 652
+Length: 1350
+
+Score: 641
+Length: 1359
+
+Score: 654
+Length: 1342
+
+Score: 658
+Length: 1339
+
+Score: 648
+Length: 1351
+
+Score: 647
+Length: 1349
+
+Score: 657
+Length: 1345
+
+Score: 644
+Length: 1356
+
+Score: 654
+Length: 1346
+
+Score: 646
+Length: 1348
+
+Score: 638
+Length: 1363
+
+Score: 643
+Length: 1355
+
+Score: 647
+Length: 1344
+
+Score: 652
+Length: 1349
+
+Score: 649
+Length: 1352
+
+Score: 651
+Length: 1349
+
+Score: 657
+Length: 1343
+
+Score: 653
+Length: 1343
+
+Score: 644
+Length: 1353
+
+Score: 652
+Length: 1346
+
+Score: 630
+Length: 1370
+
+Score: 644
+Length: 1355
+
+Score: 638
+Length: 1363
+
+Score: 649
+Length: 1348
+
+Score: 640
+Length: 1362
+
+Score: 649
+Length: 1346
+
+Score: 644
+Length: 1358
+
+Score: 648
+Length: 1353
+
+Score: 642
+Length: 1357
+
+Score: 642
+Length: 1359
+
+Score: 650
+Length: 1349
+
+Score: 642
+Length: 1358
+
+Score: 651
+Length: 1351
+
+Score: 649
+Length: 1352
+
+Score: 642
+Length: 1352
+
+Score: 646
+Length: 1355
+
+Score: 643
+Length: 1350
+
+Score: 648
+Length: 1354
+
+Score: 637
+Length: 1365
+
+Score: 643
+Length: 1358
+
+Score: 650
+Length: 1348
+
+Score: 643
+Length: 1358
+
+Score: 653
+Length: 1348
+
+Score: 642
+Length: 1360
+
+Score: 654
+Length: 1347
+
+Score: 647
+Length: 1354
+
+Score: 645
+Length: 1357
+
+Score: 642
+Length: 1358
+
+Score: 660
+Length: 1339
+
+Score: 648
+Length: 1353
+
+Score: 649
+Length: 1353
+
+Score: 662
+Length: 1339
+
+Score: 639
+Length: 1359
+
+Score: 646
+Length: 1352
+
+Score: 638
+Length: 1363
+
+Score: 646
+Length: 1352
+
+Score: 651
+Length: 1349
+
+Score: 640
+Length: 1360
+
+Score: 644
+Length: 1357
+
+Score: 655
+Length: 1346
+
+Score: 639
+Length: 1361
+
+Score: 649
+Length: 1352
+
+Score: 651
+Length: 1349
+
+Score: 642
+Length: 1360
+
+Score: 641
+Length: 1359
+
+Score: 647
+Length: 1351
+
+Score: 649
+Length: 1348
+
+Score: 647
+Length: 1355
+
+Score: 643
+Length: 1356
+
+Score: 644
+Length: 1356
+
+Score: 647
+Length: 1352
+
+Score: 638
+Length: 1363
+
+Score: 648
+Length: 1353
+
+Score: 646
+Length: 1355
+
+Score: 648
+Length: 1353
+
+Score: 652
+Length: 1350
+
+Score: 648
+Length: 1353
+
+Score: 651
+Length: 1350
+
+Score: 641
+Length: 1356
+
+Score: 650
+Length: 1349
+
+Score: 649
+Length: 1350
+
+Score: 642
+Length: 1358
+
+Score: 652
+Length: 1349
+
+Score: 652
+Length: 1349
+
+Score: 653
+Length: 1348
+
+Score: 650
+Length: 1351
+
+Score: 633
+Length: 1369
+
+Score: 647
+Length: 1353
+
+Score: 651
+Length: 1349
+
+Score: 654
+Length: 1344
+
+Score: 643
+Length: 1357
+
+Score: 645
+Length: 1351
+
+Score: 650
+Length: 1349
+
+Score: 640
+Length: 1359
+
+Score: 650
+Length: 1352
+
+Score: 637
+Length: 1363
+
+Score: 649
+Length: 1352
+
+Score: 645
+Length: 1355
+
+Score: 644
+Length: 1353
+
+Score: 655
+Length: 1345
+
+Score: 643
+Length: 1354
+
+Score: 645
+Length: 1356
+
+Score: 645
+Length: 1356
+
+Score: 651
+Length: 1347
+
+Score: 648
+Length: 1352
+
+Score: 647
+Length: 1350
+
+Score: 644
+Length: 1357
+
+Score: 653
+Length: 1346
+
+Score: 645
+Length: 1352
+
+Score: 643
+Length: 1359
+
+Score: 655
+Length: 1347
+
+Score: 641
+Length: 1358
+
+Score: 653
+Length: 1348
+
+Score: 628
+Length: 1371
+
+Score: 645
+Length: 1355
+
+Score: 655
+Length: 1346
+
+Score: 649
+Length: 1351
+
+Score: 643
+Length: 1358
+
+Score: 651
+Length: 1350
+
+Score: 641
+Length: 1360
+
+Score: 654
+Length: 1343
+
+Score: 649
+Length: 1352
+
+Score: 649
+Length: 1352
+
+Score: 638
+Length: 1355
+
+Score: 640
+Length: 1359
+
+Score: 649
+Length: 1353
+
+Score: 644
+Length: 1350
+
+Score: 650
+Length: 1352
+
+Score: 644
+Length: 1357
+
+Score: 644
+Length: 1354
+
+Score: 647
+Length: 1353
+
+Score: 655
+Length: 1345
+
+Score: 643
+Length: 1356
+
+Score: 652
+Length: 1349
+
+Score: 651
+Length: 1350
+
+Score: 647
+Length: 1353
+
+Score: 638
+Length: 1364
+
+Score: 642
+Length: 1359
+
+Score: 646
+Length: 1355
+
+Score: 657
+Length: 1344
+
+Score: 646
+Length: 1356
+
+Score: 648
+Length: 1354
+
+Score: 650
+Length: 1348
+
+Score: 646
+Length: 1356
+
+Score: 652
+Length: 1349
+
+Score: 636
+Length: 1362
+
+Score: 643
+Length: 1358
+
+Score: 646
+Length: 1351
+
+Score: 647
+Length: 1355
+
+Score: 647
+Length: 1354
+
+Score: 642
+Length: 1359
+
+Score: 653
+Length: 1348
+
+Score: 647
+Length: 1352
+
+Score: 644
+Length: 1356
+
+Score: 645
+Length: 1353
+
+Score: 647
+Length: 1354
+
+Score: 653
+Length: 1348
+
+Score: 651
+Length: 1350
+
+Score: 649
+Length: 1353
+
+Score: 650
+Length: 1348
+
+Score: 649
+Length: 1352
+
+Score: 653
+Length: 1345
+
+Score: 651
+Length: 1348
+
+Score: 644
+Length: 1356
+
+Score: 648
+Length: 1353
+
+Score: 647
+Length: 1354
+
+Score: 643
+Length: 1355
+
+Score: 645
+Length: 1355
+
+Score: 660
+Length: 1339
+
+Score: 638
+Length: 1364
+
+Score: 655
+Length: 1344
+
+Score: 650
+Length: 1351
+
+Score: 645
+Length: 1357
+
+Score: 658
+Length: 1338
+
+Score: 650
+Length: 1351
+
+Score: 648
+Length: 1353
+
+Score: 653
+Length: 1345
+
+Score: 642
+Length: 1360
+
+Score: 654
+Length: 1343
+
+Score: 652
+Length: 1347
+
+Score: 649
+Length: 1345
+
+Score: 650
+Length: 1351
+
+Score: 652
+Length: 1348
+
+Score: 643
+Length: 1358
+
+Score: 648
+Length: 1349
+
+Score: 649
+Length: 1352
+
+Score: 650
+Length: 1350
+
+Score: 649
+Length: 1349
+
+Score: 640
+Length: 1362
+
+Score: 646
+Length: 1349
+
+Score: 663
+Length: 1335
+
+Score: 641
+Length: 1359
+
+Score: 656
+Length: 1339
+
+Score: 659
+Length: 1342
+
+Score: 654
+Length: 1345
+
+Score: 639
+Length: 1358
+
+Score: 653
+Length: 1349
+
+Score: 653
+Length: 1348
+
+Score: 642
+Length: 1356
+
+Score: 649
+Length: 1350
+
+Score: 649
+Length: 1353
+
+Score: 644
+Length: 1352
+
+Score: 650
+Length: 1351
+
+Score: 649
+Length: 1351
+
+Score: 648
+Length: 1353
+

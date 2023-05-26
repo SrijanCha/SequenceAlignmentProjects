@@ -1,0 +1,5 @@
+>chr1
+TATTCATC
+
+>chr2
+TCATCAGC
